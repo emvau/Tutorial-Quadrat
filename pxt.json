@@ -1,0 +1,14 @@
+{
+    "name": "Maqueen – Quadrat fahren",
+    "description": "Der Maqueen fährt auf Knopfdruck ein Quadrat",
+    "dependencies": {
+        "microbit": "*",
+        "maqueenPlusV2": "github:DFRobot/pxt-DFRobot_MaqueenPlus_v20"
+    },
+    "files": [
+        "quadrat.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0"
+    }
+}
