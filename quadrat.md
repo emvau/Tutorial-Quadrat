@@ -5,7 +5,7 @@ dass er auf Knopfdruck ein Quadrat fährt! ⬛🤖
 Denke daran, zuerst die Erweiterung zu installieren.
 ## 
 Zuerst initialisieren wir den Roboter.
-Füge den Block ``||MaqueenPlusV2:initialisiere Maqueen Plus V2||`` ein.
+Füge den Block ``||MaqueenPlusV2:initialisiere Maqueen Plus V2||`` in den ``||basic:beim Start||`` Block ein.
 ##  
 Jetzt reagieren wir auf einen Knopfdruck.
 Füge den Block ``||input:wenn Knopf A gedrückt||`` ein.
